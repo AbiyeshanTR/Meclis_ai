@@ -1,0 +1,6 @@
+pymupdf
+tqdm
+pandas
+sentence-transformers
+faiss-cpu
+streamlit
